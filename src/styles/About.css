@@ -1,0 +1,23 @@
+.subSection{
+    padding: 20px 0px;
+}
+.heading{
+    background-color: blue;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    font-family: sans-serif;
+    text-align: left;
+    padding-left: 50px;
+}
+.title{
+    color: navy;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 0px;
+}
+.desc{
+    padding: 0px 20px;
+}

@@ -1,0 +1,66 @@
+section{
+  text-align: center;  
+}
+.partner{
+    padding-top: 50px;
+}
+.partnerText{
+    color: navy;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px 20px 0px 30px;
+}
+.text{
+    background:url('../images/bg.jpg');
+    height:500px;
+    width:auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    font-size: 2.5rem;
+        color: wheat;
+        text-align: left;
+        padding: 50px 20px 0px 30px;
+        
+}
+
+h3{
+    
+    color: wheat;
+    text-align: left;
+    padding-top: 50px;
+    padding: 50px 20px 0px 30px;  
+    
+}
+.row img{
+    padding: 20px;
+}
+.foot{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(137, 133, 133);
+}
+.card{
+    box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+    transition: 1s;
+}
+.card:hover{
+    transform: scale(1.1);
+    z-index:1;
+}
+@media (max-width : 480px){
+    .text{
+        background:url('../images/bg.jpg');
+        height:500px;
+        width:auto;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+    
+}
+
+
